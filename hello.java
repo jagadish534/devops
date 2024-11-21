@@ -4,4 +4,4 @@ class hello
         system.out.println("hello world")
     )
     
-}0
+}
